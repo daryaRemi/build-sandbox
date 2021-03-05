@@ -1,2 +1,2 @@
-# build-sundbox
-Sundbox to play with React build tools
+# build-sandbox
+Sandbox to play with React build tools
